@@ -5,7 +5,9 @@
 ## Team
 
   - __Product Owner__: 문창무
+  
   - __Scrum Master__: 박지은
+  
   - __Development Team Members__: 김상훈
 
 ## Table of Contents
